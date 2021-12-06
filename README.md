@@ -1,1 +1,1 @@
-# Sugar-factory-for-wp
+# just layout for WP
